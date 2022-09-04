@@ -1,0 +1,43 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_mainDiv{
+border:1px solid lightgrey;    
+}
+.travel_mainDiv img{
+width:100%    
+}
+.travel_mainDiv h5 , .travel_mainDiv p{
+margin:20px;    
+}
+.movie_head{
+font-size:20px;
+padding: 6px 22px;
+border-radius:10px;
+margin-bottom:15px;    
+}
+.movie_head i{
+float:right;    
+}
+.movie_text span{
+color:gold;    
+}
+.movie_text img{
+width:350px;
+height:500px;
+border-radius:20px;
+border: 5px ridge black;
+text-align:center;
+}
+#books{
+margin-bottom:20px;    
+}
+#contact iframe{
+width:100%;
+}
+.book1{
+width:300px;
+height:500px;
+border:5px ridge black;    
+}
